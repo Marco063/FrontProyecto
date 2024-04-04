@@ -1,0 +1,22 @@
+.btn-icon {
+    color: inherit; /* Hereda el color del icono */
+    border-color: transparent; /* Quita el borde del botón */
+  }
+  
+  .btn-icon:hover {
+    background-color: transparent; /* Quita el fondo del botón al pasar el mouse */
+  }
+  /* Define una clase única y descriptiva para aplicar la fuente */
+.pontano-sans-mi-clase {
+  /* Especifica la fuente "Pontano Sans" como la fuente principal */
+  font-family: "Pontano Sans", sans-serif;
+  
+  /* Ajusta el tamaño óptico de la fuente (opcional) */
+  font-optical-sizing: auto;
+  
+  /* Especifica el peso de la fuente (de 300 a 700) */
+  font-weight: 400; /* Reemplaza 400 con el peso deseado, por ejemplo: 300, 400, 500, 600, 700, etc. */
+  
+  /* Especifica el estilo de la fuente (normal, itálico, etc.) */
+  font-style: normal; /* Opciones: normal, italic, oblique */
+}
